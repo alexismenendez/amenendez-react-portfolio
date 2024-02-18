@@ -1,0 +1,14 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.logoHeader {
+    display: flex;
+    justify-content: center;
+}
+
+.nav a {
+    padding: 0px 15px;
+}
